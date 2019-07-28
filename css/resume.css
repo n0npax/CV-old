@@ -190,6 +190,14 @@ section.resume-section .resume-item .resume-date {
   color: #005D38 !important;
 }
 
+
+.cert-img {
+  max-width: 200px;
+  max-height: 200px;
+  margin-top: 0.5rem !important;
+  margin-left: 0.5rem !important;
+}
+
 a {
   color: #005D38;
 }
