@@ -1,10 +1,14 @@
-# About
+# Marcin Niemira
+---
 Software developer, DevOps, OSS fan, Linux follower, a geek who lives in a basement but is not afraid of other people. 
 
+---
 
-## Developer / DevOps
-## Location: Australia / Europe / Remote
-## Email: [name].[surname]@gmail.com
+**Location**: Australia / Europe / Remote
+
+**Email**: `name.surname@gmail.com`
+
+---
 
 # Job profile
 
@@ -22,6 +26,8 @@ Software developer, DevOps, OSS fan, Linux follower, a geek who lives in a basem
 * Support engineer
 * Operations engineer
 * Front-End Developer
+
+---
 
 # Experience
 
@@ -215,8 +221,10 @@ Developing website
   * PHP
   * WordPress
 
-# Education
 
+---
+
+# Education
 
 ## Master of Science, Computer Science
 Wroclaw university of technology
@@ -231,13 +239,176 @@ September 2010 - February 2015 Wroclaw, Poland
 
 Thesis: Application supporting work of experts using the polygraph (Hardware & Software)
 
+---
 
-# ToC
-[About](#About)
+# Skills
 
-[Profile](#Job-profile)
+## System Engineering
 
-[Experience](#Experience)
+⬛️⬛️⬛️⬛️⬛️Linux | ubuntu, systemd, packaging, etc, software development, ...
 
-[Education](#Education)
+⬛️⬛️⬛️⬛️⬜️System optimalization | atop, strace, dstat, iotop, sar, ss, understanding of few files in /proc and /dev
 
+⬛️⬛️⬛️⬜️⬜️Unix | FreeBSD, pfSense, ports
+
+⬛️⬛️⬜️⬜️⬜️Network troubleshooting | ss, ip r, tcpflow, tcpdump, overall average understanding of network
+
+## Cloud
+
+⬛️⬛️⬛️⬛️⬛️ cloud | ceph
+ 
+⬛️⬛️⬛️⬛️⬛️ Containers | Docker, docker-compose
+ 
+⬛️⬛️⬛️⬛️⬛️ gcp | gcs, gcr, gke, functions, bigtable, cloudSQL, iam, pubsub, compute, appengine, ...
+ 
+⬛️⬛️⬛️⬛️⬛️ K8s | manifests, helm, opa, rbac, spinnaker, network policies, ...
+ 
+⬛️⬛️⬛️⬛️⬜️ aws | s3, ec2, ecs, lambda, dynamodb, sns, iam, beanstalk, cloudwatch, ...
+ 
+⬛️⬛️⬛️⬜️⬜️ cloud | openstack, vmware, marathon
+ 
+⬛️⬛️⬜️⬜️⬜️  Network | routing, switching
+ 
+⬛️⬛️⬜️⬜️⬜️   Service Mesh | istio
+
+## Programming Languages
+
+⬛️⬛️⬛️⬛️⬛️  python | pep8, pytest, flask, sqlalchemy, paramiko, pdb, packaging, celery, virtualenv
+
+⬛️⬛️⬛️⬛️⬛️  Orchestrization | Puppet, Ansible
+
+⬛️⬛️⬛️⬛️⬛️  IaaC | Terraform
+
+⬛️⬛️⬛️⬛️⬜️ Scripting | Bash, sh, spellcheck
+
+⬛️⬛️⬛️⬜️⬜️  Go | gin,kingpin,chi,testify
+
+⬛️⬛️⬛️⬜️⬜️  Scripting | ruby, perl
+
+⬛️⬛️⬜️⬜️⬜️    Lambda | Serverless framework
+
+⬛️⬛️⬜️⬜️⬜️   Orchestrization | Salt
+
+⬛️⬛️⬜️⬜️⬜️    IaaC | Cloud Formation
+
+⬛️⬛️⬜️⬜️⬜️    Rust | cargo, redox(some merges)
+
+## SRE
+
+⬛️⬛️⬛️⬛️⬜️  monitoring | Icinga
+
+⬛️⬛️⬛️⬜️⬜️  metrics | influxDB, telegraf, grafana, munin, stackdriver
+
+⬛️⬛️⬛️⬜️⬜️ Logs | ELK, awslogs, graylog, filebeat
+
+⬛️⬛️⬛️⬜️⬜️  monitoring | New Relic
+
+## CI/CD
+
+⬛️⬛️⬛️⬛️⬛️  CI | cloudbuild
+
+⬛️⬛️⬛️⬛️⬜️  CI | jenkins, gitlab
+
+⬛️⬛️⬛️⬜️⬜️  CD | spinnaker, jenkins
+
+⬛️⬛️⬜️⬜️⬜️   CI | CDS, stash, jira, GHE
+
+## Other
+
+⬛️⬛️⬛️⬛️⬜️  cvs | git
+  
+⬛️⬛️⬛️⬜️⬜️  db | mysql, galera, postgres
+  
+⬛️⬛️⬛️⬜️⬜️  www | nginx, apache2
+  
+⬛️⬛️⬛️⬜️⬜️  lb | haproxy
+  
+⬛️⬛️⬛️⬜️⬜️    others | Redis, rabbitmq
+  
+⬛️⬛️⬛️⬜️⬜️   db | mongodb, firestore
+  
+⬛️⬛️⬛️⬜️⬜️ markdown | this doc is written in markdown
+
+## Security
+
+⬛️⬛️⬛️⬜️⬜️  blue | firewalls, iam, least priviledges, fail2ban, common sense, ...
+
+⬛️⬛️⬛️⬜️⬜️   CTF | puzzles, obfuscation, rev-engineering
+
+⬛️⬛️⬜️⬜️⬜️  red | basic msf, sqlinjection, ddos, overall script kiddie plus level
+
+# Certificates
+
+![Google Cloud Professional architect](./img/gcp_arch_logo.png =100x)
+![CCNA](./img/ccna.jpg =100x)
+
+# Voluntering
+
+## OPEN SOURCE
+
+I've some commits in:
+
+* cpython (8+ commits - docs, bugfix)
+* minikube (kubernetes project) (40+ commits - tests, features)
+* redox-os (10+ commits - coreutils, extrautils)
+* terraform (2+ docs)
+* cloud builders community (10+ commits - builders)
+
+Check github for details: [n0npax](https://github.com/n0npax)
+
+## STUDENT ORGANIZATION MEMBER
+### ASI (ACADEMIC COMPUTER SCIENCE ASSOCIATION)
+
+November 2011 - June 2015 Wroclaw, Poland 
+
+Member of student organization.
+* Internal projects development
+* Representation on fairs
+* Participation in lectures
+* Giving talks for internal and external events
+
+---
+
+# Custom Projects
+
+* Gliders flight managing system backend)
+  * Platform - App engine/firebase
+  * Metrics - stackdriver
+  * Logic - Python/Go
+* Flower watering system
+  * Platform - K8S
+  * Metrics - Influx stack
+  * Logic - Python/Go
+  * Caching - Redis
+* Dummy operating system
+  * Dummy operating system which jumps to protected mode and display potatoOS text
+  * kernel and bootloader (asm)
+* LieHunter - polygraph
+  * Logic - Python/C
+  * Data collection - RPI/adc
+  * Dummy electric circuit
+* Navi4Uni - Campus navigation & scheduling system
+  * Framework - JavaEE/Spring
+  * CI - jenkins
+  * Async tasks - python/celery
+* WebRatRipper - computing liver cellule parameters
+  * Logic - python
+  * graphs - plotly
+* Open source projects - check my github
+
+---
+
+# TALKS
+
+* [python - weird behaviours](https://sched.co/VdAl) - Unconference, Melbourne, Australia 16 Oct 2019
+* [honeypots](https://asi.pwr.edu.pl/blog/2013/02/24/geeks-night-4-0-web-application-security/) - Geeks night, Wrocław, Poland 16 Mar 2013
+
+---
+
+# Other
+* Languages
+  * English - C1
+  * Polish - C2
+  * Russian - A2
+* First aid cource
+* Driving license
