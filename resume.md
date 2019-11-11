@@ -8,6 +8,10 @@ Software developer, DevOps, OSS fan, Linux follower, a geek who lives in a basem
 
 **Email**: `name.surname@gmail.com`
 
+**LinkedIn**: https://www.linkedin.com/in/marcin-niemira-4a826a104/
+
+**GitHub**: https://github.com/n0npax/
+
 ---
 
 # Job profile
@@ -245,13 +249,13 @@ Thesis: Application supporting work of experts using the polygraph (Hardware & S
 
 ## System Engineering
 
-⬛️⬛️⬛️⬛️⬛️Linux | ubuntu, systemd, packaging, etc, software development, ...
+⬛️⬛️⬛️⬛️⬛️ Linux | ubuntu, systemd, packaging, etc, software development, ...
 
-⬛️⬛️⬛️⬛️⬜️System optimalization | atop, strace, dstat, iotop, sar, ss, understanding of few files in /proc and /dev
+⬛️⬛️⬛️⬛️⬜️ System optimalization | atop, strace, dstat, iotop, sar, ss, understanding of few files in /proc and /dev
 
-⬛️⬛️⬛️⬜️⬜️Unix | FreeBSD, pfSense, ports
+⬛️⬛️⬛️⬜️⬜️ Unix | FreeBSD, pfSense, ports
 
-⬛️⬛️⬜️⬜️⬜️Network troubleshooting | ss, ip r, tcpflow, tcpdump, overall average understanding of network
+⬛️⬛️⬜️⬜️⬜️ Network troubleshooting | ss, ip r, tcpflow, tcpdump, overall average understanding of network
 
 ## Cloud
 
@@ -267,75 +271,75 @@ Thesis: Application supporting work of experts using the polygraph (Hardware & S
  
 ⬛️⬛️⬛️⬜️⬜️ cloud | openstack, vmware, marathon
  
-⬛️⬛️⬜️⬜️⬜️  Network | routing, switching
+⬛️⬛️⬜️⬜️⬜️ Network | routing, switching
  
-⬛️⬛️⬜️⬜️⬜️   Service Mesh | istio
+⬛️⬛️⬜️⬜️⬜️ Service Mesh | istio
 
 ## Programming Languages
 
-⬛️⬛️⬛️⬛️⬛️  python | pep8, pytest, flask, sqlalchemy, paramiko, pdb, packaging, celery, virtualenv
+⬛️⬛️⬛️⬛️⬛️ python | pep8, pytest, flask, sqlalchemy, paramiko, pdb, packaging, celery, virtualenv
 
-⬛️⬛️⬛️⬛️⬛️  Orchestrization | Puppet, Ansible
+⬛️⬛️⬛️⬛️⬛️ Orchestrization | Puppet, Ansible
 
-⬛️⬛️⬛️⬛️⬛️  IaaC | Terraform
+⬛️⬛️⬛️⬛️⬛️ IaaC | Terraform
 
 ⬛️⬛️⬛️⬛️⬜️ Scripting | Bash, sh, spellcheck
 
-⬛️⬛️⬛️⬜️⬜️  Go | gin,kingpin,chi,testify
+⬛️⬛️⬛️⬜️⬜️ Go | gin,kingpin,chi,testify
 
-⬛️⬛️⬛️⬜️⬜️  Scripting | ruby, perl
+⬛️⬛️⬛️⬜️⬜️ Scripting | ruby, perl
 
-⬛️⬛️⬜️⬜️⬜️    Lambda | Serverless framework
+⬛️⬛️⬜️⬜️⬜️ Lambda | Serverless framework
 
-⬛️⬛️⬜️⬜️⬜️   Orchestrization | Salt
+⬛️⬛️⬜️⬜️⬜️ Orchestrization | Salt
 
-⬛️⬛️⬜️⬜️⬜️    IaaC | Cloud Formation
+⬛️⬛️⬜️⬜️⬜️ IaaC | Cloud Formation
 
-⬛️⬛️⬜️⬜️⬜️    Rust | cargo, redox(some merges)
+⬛️⬛️⬜️⬜️⬜️ Rust | cargo, redox(some merges)
 
 ## SRE
 
-⬛️⬛️⬛️⬛️⬜️  monitoring | Icinga
+⬛️⬛️⬛️⬛️⬜️ monitoring | Icinga
 
-⬛️⬛️⬛️⬜️⬜️  metrics | influxDB, telegraf, grafana, munin, stackdriver
+⬛️⬛️⬛️⬜️⬜️ metrics | influxDB, telegraf, grafana, munin, stackdriver
 
 ⬛️⬛️⬛️⬜️⬜️ Logs | ELK, awslogs, graylog, filebeat
 
-⬛️⬛️⬛️⬜️⬜️  monitoring | New Relic
+⬛️⬛️⬛️⬜️⬜️ monitoring | New Relic
 
 ## CI/CD
 
-⬛️⬛️⬛️⬛️⬛️  CI | cloudbuild
+⬛️⬛️⬛️⬛️⬛️ CI | cloudbuild
 
-⬛️⬛️⬛️⬛️⬜️  CI | jenkins, gitlab
+⬛️⬛️⬛️⬛️⬜️ CI | jenkins, gitlab
 
-⬛️⬛️⬛️⬜️⬜️  CD | spinnaker, jenkins
+⬛️⬛️⬛️⬜️⬜️ CD | spinnaker, jenkins
 
-⬛️⬛️⬜️⬜️⬜️   CI | CDS, stash, jira, GHE
+⬛️⬛️⬜️⬜️⬜️ CI | CDS, stash, jira, GHE
 
 ## Other
 
-⬛️⬛️⬛️⬛️⬜️  cvs | git
+⬛️⬛️⬛️⬛️⬜️ cvs | git
   
-⬛️⬛️⬛️⬜️⬜️  db | mysql, galera, postgres
+⬛️⬛️⬛️⬜️⬜️ db | mysql, galera, postgres
   
-⬛️⬛️⬛️⬜️⬜️  www | nginx, apache2
+⬛️⬛️⬛️⬜️⬜️ www | nginx, apache2
   
-⬛️⬛️⬛️⬜️⬜️  lb | haproxy
+⬛️⬛️⬛️⬜️⬜️ lb | haproxy
   
-⬛️⬛️⬛️⬜️⬜️    others | Redis, rabbitmq
+⬛️⬛️⬛️⬜️⬜️ others | Redis, rabbitmq
   
-⬛️⬛️⬛️⬜️⬜️   db | mongodb, firestore
+⬛️⬛️⬛️⬜️⬜️ db | mongodb, firestore
   
 ⬛️⬛️⬛️⬜️⬜️ markdown | this doc is written in markdown
 
 ## Security
 
-⬛️⬛️⬛️⬜️⬜️  blue | firewalls, iam, least priviledges, fail2ban, common sense, ...
+⬛️⬛️⬛️⬜️⬜️ blue | firewalls, iam, least priviledges, fail2ban, common sense, ...
 
-⬛️⬛️⬛️⬜️⬜️   CTF | puzzles, obfuscation, rev-engineering
+⬛️⬛️⬛️⬜️⬜️ CTF | puzzles, obfuscation, rev-engineering
 
-⬛️⬛️⬜️⬜️⬜️  red | basic msf, sqlinjection, ddos, overall script kiddie plus level
+⬛️⬛️⬜️⬜️⬜️ red | basic msf, sqlinjection, ddos, overall script kiddie plus level
 
 # Certificates
 
