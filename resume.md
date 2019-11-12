@@ -1,6 +1,8 @@
 # Marcin Niemira
 ---
-Software developer, DevOps, OSS fan, Linux follower, a geek who lives in a basement but is not afraid of other people. 
+Backend developer, DevOps, SRE, Technical recruiter.
+
+OSS fan, Linux follower, a geek who lives in a basement but is not afraid of other people. 
 
 ---
 
@@ -265,7 +267,7 @@ Thesis: Application supporting work of experts using the polygraph (Hardware & S
  
 ⬛️⬛️⬛️⬛️⬛️ gcp | gcs, gcr, gke, functions, bigtable, cloudSQL, iam, pubsub, compute, appengine, ...
  
-⬛️⬛️⬛️⬛️⬛️ K8s | manifests, helm, opa, rbac, spinnaker, network policies, ...
+⬛️⬛️⬛️⬛️⬛️ k8s | manifests, helm, opa, rbac, spinnaker, network policies, ...
  
 ⬛️⬛️⬛️⬛️⬜️ aws | s3, ec2, ecs, lambda, dynamodb, sns, iam, beanstalk, cloudwatch, ...
  
@@ -285,7 +287,7 @@ Thesis: Application supporting work of experts using the polygraph (Hardware & S
 
 ⬛️⬛️⬛️⬛️⬜️ Scripting | Bash, sh, spellcheck
 
-⬛️⬛️⬛️⬜️⬜️ Go | gin,kingpin,chi,testify
+⬛️⬛️⬛️⬜️⬜️ Go | gin,kingpin,chi,testify,minikube(merges)
 
 ⬛️⬛️⬛️⬜️⬜️ Scripting | ruby, perl
 
@@ -295,15 +297,15 @@ Thesis: Application supporting work of experts using the polygraph (Hardware & S
 
 ⬛️⬛️⬜️⬜️⬜️ IaaC | Cloud Formation
 
-⬛️⬛️⬜️⬜️⬜️ Rust | cargo, redox(some merges)
+⬛️⬛️⬜️⬜️⬜️ Rust | cargo, redox(merges)
 
 ## SRE
 
-⬛️⬛️⬛️⬛️⬜️ monitoring | Icinga
+⬛️⬛️⬛️⬛️⬛️ monitoring | Icinga
 
-⬛️⬛️⬛️⬜️⬜️ metrics | influxDB, telegraf, grafana, munin, stackdriver
+⬛️⬛️⬛️⬛️⬜️ metrics | influxDB, telegraf, grafana, stackdriver, prometheus
 
-⬛️⬛️⬛️⬜️⬜️ Logs | ELK, awslogs, graylog, filebeat
+⬛️⬛️⬛️⬜️⬜️ Logs | ELK, awslogs, graylog, filebeat, munin
 
 ⬛️⬛️⬛️⬜️⬜️ monitoring | New Relic
 
@@ -323,13 +325,13 @@ Thesis: Application supporting work of experts using the polygraph (Hardware & S
   
 ⬛️⬛️⬛️⬜️⬜️ db | mysql, galera, postgres
   
-⬛️⬛️⬛️⬜️⬜️ www | nginx, apache2
+⬛️⬛️⬛️⬜️⬜️ www | nginx, apache2, envoy
   
 ⬛️⬛️⬛️⬜️⬜️ lb | haproxy
   
 ⬛️⬛️⬛️⬜️⬜️ others | Redis, rabbitmq
   
-⬛️⬛️⬛️⬜️⬜️ db | mongodb, firestore
+⬛️⬛️⬛️⬜️⬜️ db(nosql) | mongodb, firestore
   
 ⬛️⬛️⬛️⬜️⬜️ markdown | this doc is written in markdown
 
@@ -353,7 +355,7 @@ Thesis: Application supporting work of experts using the polygraph (Hardware & S
 I've some commits in:
 
 * cpython (8+ commits - docs, bugfix)
-* minikube (kubernetes project) (40+ commits - tests, features)
+* minikube (kubernetes project) (50+ commits - tests, features)
 * redox-os (10+ commits - coreutils, extrautils)
 * terraform (2+ docs)
 * cloud builders community (10+ commits - builders)
