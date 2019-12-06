@@ -1,6 +1,6 @@
 # Marcin Niemira
 ---
-Backend developer, DevOps, SRE, Technical recruiter.
+Backend developer, DevOps, SRE, Cloud engineer, Technical recruiter.
 
 OSS fan, Linux follower, a geek who lives in a basement but is not afraid of other people. 
 
@@ -22,10 +22,10 @@ OSS fan, Linux follower, a geek who lives in a basement but is not afraid of oth
 
 * Software Engineer
 * Backend Developer
-* DevOps Developer
-* SRE
+* DevOps Developer (Development and Ops for single product)
 * Platform Engineer
 * Consultant
+* Architect
 
 ### I’m not interested in roles like:
 
@@ -37,15 +37,15 @@ OSS fan, Linux follower, a geek who lives in a basement but is not afraid of oth
 
 # Experience
 
-## ANZ
-Software engineer (DevOps/SRE)
+## ![CCNA](./img/anz48.jpg) ANZ
+Software engineer (Developer/DevOps/SRE)
 
 January 2019 - Now Melbourne, Australia
 
 Developing Platform shared by many tribes & teams. Implementing new workflows for applications deployment. Introducing GCP and K8S to the teams. Providing support and advices for appliaction architecture. Providing clean and scalable architecture for shared platform. Implementing various solution using wide toolset. Dealing with various tasks range starting with regular application development to fully declarative security improvements and infrastructure management. Being technical lead for GCP based projects.
 
 * GCP/K8S
-  * GKE (cluster,istio,namespaces,rbac,network policies) - terraform, helm, yaml
+  * GKE (cluster,istio,namespaces,rbac,network policies) - terraform, helm, yaml, kustomize
   * gcr, gsr, gcs, iam, cloudbuild, cloudsql, pubsub, firebase - terraform / terragrunt
   * opa policies - rego
   * monitoring - stackdriver, jeager, kiali, prometheus, grafana
@@ -82,9 +82,11 @@ Developing Platform shared by many tribes & teams. Implementing new workflows fo
 * Soft Skills
   * Technical leading
   * Interviewing candidates
-  * Distributing tasks for group of engineers (from 2 to 6 engineers)
+  * Distributing tasks for group of engineers (from 2 to 5 engineers)
 
-## Silverpond
+---
+
+## ![CCNA](./img/silverpond48.jpg) Silverpond
 
 Software engineer (DevSecOps)
 
@@ -119,7 +121,9 @@ Backend development and introducing DevOps culture. Providing new features for c
     * Contenerization - Docker
     * Refactor application to be cloud agnostic - ruby
 
-## OVH
+---
+
+## ![CCNA](./img/ovh48.jpg) OVH
 
 Developer (DevOps/SRE)
 
@@ -152,7 +156,9 @@ Developing distributed system to manage IaaS solution for Ceph (Distributed stor
 * Introducing and mentoring junior dev which joined the team
 * Representing company on job fairs
 
-## Nokia
+---
+
+## ![CCNA](./img/nsn48.png) Nokia
 
 DevOps (SCM)
 
@@ -185,6 +191,8 @@ Developing backup and restore system for network elements in telecommunication s
 * Developing IPv6 support
 * SELinux policies
 
+---
+
 ## Freelancer
 
 October 2012 - June 2014 Lowicz/Wroclaw, Poland 
@@ -198,8 +206,9 @@ Helpdesk, IT Service on request.
 * Implementating application for mass mail notification - Java
 * Student project on request
 
+---
 
-## Operator logistyczny paliw płynnych
+## ![CCNA](./img/olpp48.jpg) Operator logistyczny paliw płynnych
 
 Summer intern
 
@@ -213,7 +222,9 @@ Helpdesk, system administration.
 * Minor tasks connected with VMware, AD and so forth.
 * Helpdesk
 
-## Dom Spotkań z Historią
+---
+
+## ![CCNA](./img/dsh48.jpg) Dom Spotkań z Historią
 
 Web Developer (contract)
 
@@ -232,14 +243,18 @@ Developing website
 
 # Education
 
-## Master of Science, Computer Science
+## ![CCNA](./img/pwr48.jpg) Master of Science, Computer Science
+
 Wroclaw university of technology
 February 2016 - July 2017 Wroclaw, Poland
 
 Thesis: Performance analysis for chosen Linux distro virtualized on Mikrotik router (Test performance of guest and host OS on Mikrotik RB with various loads)
 
 
-## Bachelor of Science, Computer Science
+
+
+## ![CCNA](./img/pwr48.jpg) Bachelor of Science, Computer Science
+
 Wroclaw university of technology
 September 2010 - February 2015 Wroclaw, Poland
 
@@ -418,3 +433,23 @@ Member of student organization.
   * Russian - A2
 * First aid cource
 * Driving license
+
+
+<!-- FIREBASE -->
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="/__/firebase/7.4.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="/__/firebase/7.4.0/firebase-analytics.js"></script>
+
+<!-- Initialize Firebase -->
+<script src="/__/firebase/init.js"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js"></script>
+
+<script>
+analytics = firebase.analytics();
+analytics.logEvent('page_load', {"nane":"index.html"});
+</script>
