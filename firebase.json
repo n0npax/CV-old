@@ -6,6 +6,13 @@
                 "destination": "/.well-known/security.txt"
             }
         ],
-        "public": "."
+        "public": ".",
+        "headers": [ {
+            "source": "**.md",
+            "headers": [ {
+              "key": "content-type",
+              "value": "text/pdf"
+            } ]
+          }]
     }
 }
